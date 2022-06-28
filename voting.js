@@ -302,7 +302,7 @@ contract('Voting', accounts => {
 
   /*= ========= tallyVotes ========== */
 
-  describe('test tallyVotes', () => {
+  describe('Test tallyVotes', () => {
     beforeEach(async () => {
       votingInstance = await Voting.new({ from: owner });
       await votingInstance.addVoter(voter1, { from: owner });
