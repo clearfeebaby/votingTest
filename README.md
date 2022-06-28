@@ -61,3 +61,6 @@ Description des tests concernant le contract "Voting".
 - Vérifie que seul le propriétaire puisse lancer le compte
 - Vérifie que le workflow ait bien le statut `VotingSessionEnded`
 - Vérifie que le gagnant est correct via le winningID et le getter
+
+![alt text](https://github.com/clearfeebaby/votingTest/blob/main/tests.jpg?raw=true)
+![alt text](https://github.com/clearfeebaby/votingTest/blob/main/tests2.jpg?raw=true)
