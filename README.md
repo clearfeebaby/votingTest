@@ -63,4 +63,4 @@ Description des tests concernant le contract "Voting".
 - Vérifie que le gagnant est correct via le winningID et le getter
 
 ![alt text](https://github.com/clearfeebaby/votingTest/blob/main/tests.JPG?raw=true)
-![alt text](https://github.com/clearfeebaby/votingTest/blob/main/tests2.jpg?raw=true)
+![alt text](https://github.com/clearfeebaby/votingTest/blob/main/tests2.JPG?raw=true)
